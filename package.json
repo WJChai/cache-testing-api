@@ -1,0 +1,26 @@
+{
+  "name": "cache-testing-api",
+  "version": "1.0.0",
+  "description": "an api to test http request with cache-control header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/WJChai/cache-testing-api"
+  },
+  "keywords": [
+    "test",
+    "api"
+  ],
+  "author": "Chai Wei Jian <chaiweijian0911@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "12.18.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
